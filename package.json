@@ -1,0 +1,14 @@
+{
+  "name": "imageshrink",
+  "version": "1.0.0",
+  "description": "App to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "harika",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  }
+}
